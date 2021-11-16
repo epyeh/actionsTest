@@ -20,7 +20,7 @@ class BaseCase(unittest.TestCase):
         # self.db.drop_collection(collection)
 
 
-class SumTest(BaseCase):
+class TestSum(BaseCase):
     # class SumTest(unittest.TestCase):
     # class BaseCase(unittest.TestCase):
 
